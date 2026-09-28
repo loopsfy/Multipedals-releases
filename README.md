@@ -1,2 +1,5 @@
-# Multipedals-releases
-Multipedals - Official Releases (Windows &amp; macOS installers)
+# Multipedals Releases
+
+Official installers for Multipedals - multi-effect pedalboard plugin by Loopsfy x Creativ Audio.
+
+Visit [loopsfy.com](https://loopsfy.com) for more information.
